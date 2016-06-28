@@ -1,0 +1,42 @@
+
+.main1{
+	width: 1440px;
+	height: 798px;
+	background-color: #c3c3c3;
+	text-align: center;
+	box-shadow: 0 0 3px gray;
+	border-bottom: 1px solid gray;
+}
+
+.main2{
+	width: 510px;
+	height: 750px;
+	padding: 20px;
+	margin: 0 auto;
+	background-color: white;
+} 
+
+div{
+	background-color: white;
+	border-bottom: 1px solid black;
+}
+
+div:last-child{
+	border-bottom: none;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	margin: auto;
+	width: 200px;
+	height: auto;
+}
+
+p,
+li{
+	text-align: left;
+	padding-left: 20px;
+}
